@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/2Bears/static/css/main.fbaddc24.css",
+    "main.js": "/2Bears/static/js/main.27be3d68.js",
+    "static/js/787.15a8fb2f.chunk.js": "/2Bears/static/js/787.15a8fb2f.chunk.js",
+    "static/media/Logo.png": "/2Bears/static/media/Logo.c0b2d61145ba680990e9.png",
+    "index.html": "/2Bears/index.html",
+    "main.fbaddc24.css.map": "/2Bears/static/css/main.fbaddc24.css.map",
+    "main.27be3d68.js.map": "/2Bears/static/js/main.27be3d68.js.map",
+    "787.15a8fb2f.chunk.js.map": "/2Bears/static/js/787.15a8fb2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbaddc24.css",
+    "static/js/main.27be3d68.js"
+  ]
+}
